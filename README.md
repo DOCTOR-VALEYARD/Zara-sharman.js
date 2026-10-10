@@ -1,127 +1,225 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090018,25:6A00F4,60:C000FF,100:00D9FF&height=220&section=header&text=ZARA%20BOT%20V4&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=WHATSAPP%20AUTOMATION&descSize=18&descAlignY=64&descColor=F7E9FF" width="100%" alt="ZARA BOT V4" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=E879F9&center=true&vCenter=true&width=650&lines=💜+Bem-vindo+ao+ZARA+BOT+V4;🤖+Automação+para+WhatsApp;📱+Instalação+no+Termux;⚡+Simples.+Prático.+ZARA." alt="Apresentação animada do ZARA BOT V4" />
-  <br><br>
-  <img src="https://img.shields.io/badge/VERS%C3%83O-V4-C026D3?style=for-the-badge" alt="Versão V4" />
-  <img src="https://img.shields.io/badge/PLATAFORMA-TERMUX-18181B?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Termux" />
-  <img src="https://img.shields.io/badge/AMBIENTE-NODE.JS%20LTS-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js LTS" />
-  <h3>✦ AUTOMATIZAÇÃO · TECNOLOGIA · IDENTIDADE ✦</h3>
-</div>
+<div align="center"><!-- ═══════════════════════════════════════════════════════════ --><!--                    ZARA BOT V4 · ELITE                     --><!-- ═══════════════════════════════════════════════════════════ --><img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050014,20:24005A,45:7200FF,70:C000FF,100:00E5FF&text=ZARA%20BOT%20V4&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=NEXT-GENERATION%20WHATSAPP%20AUTOMATION&descSize=15&descAlignY=58&descColor=E9D5FF&animation=fadeIn&stroke=9B5CFF&strokeWidth=1" width="100%" alt="ZARA BOT V4 — Neon Edition"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=800&height=45&lines=SYSTEM+ONLINE...;WHATSAPP+AUTOMATION+ENGINE;POWERED+BY+NODE.JS;ENGINEERED+BY+DOCTOR+VALEYARD;WELCOME+TO+THE+ZARA+UNIVERSE" alt="ZARA BOT V4 — Animação"/><br><img src="https://img.shields.io/badge/PROJECT-ZARA%20BOT%20V4-8B5CF6?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PLATFORM-ANDROID-101010?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/RUNTIME-NODE.JS-101010?style=for-the-badge&logo=nodedotjs&logoColor=68A063"/>
+<img src="https://img.shields.io/badge/ENVIRONMENT-TERMUX-101010?style=for-the-badge&logo=gnubash&logoColor=00E5FF"/><br><br>
+
+"AUTOMATION"   ◆   "TECHNOLOGY"   ◆   "INNOVATION"
+
+<br><a href="#-visão-geral"><img src="https://img.shields.io/badge/EXPLORE-PROJECT-7C3AED?style=for-the-badge"/></a>
+<a href="#-instalação-inteligente"><img src="https://img.shields.io/badge/INSTALL-TERMUX-06B6D4?style=for-the-badge"/></a>
+<a href="#-créditos"><img src="https://img.shields.io/badge/CREATOR-DOCTOR%20VALEYARD-DB2777?style=for-the-badge"/></a>
+
+<br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:C026D3,100:06B6D4&height=3&section=header" width="100%" alt="Divisor neon"/></div><!-- ═══════════════════════════════════════════════════════════ --><!--                         OVERVIEW                           --><!-- ═══════════════════════════════════════════════════════════ -->◈ 01 — VISÃO GERAL
+
+«Uma identidade. Uma proposta. Uma experiência de automação.»
+
+O ZARA BOT V4 é um projeto de automação para WhatsApp desenvolvido para execução no Android por meio do Termux e do ambiente Node.js.
+
+Este repositório reúne as instruções necessárias para baixar o projeto, preparar o ambiente, instalar as dependências e iniciar o bot.
+
+<table>
+<tr>
+<td width="50%" valign="top">◉ AMBIENTE
+
+- 📱 Android + Termux
+- ⚙️ Node.js LTS
+- 📦 Gerenciamento com npm
+- 🎵 FFmpeg para recursos compatíveis
+- 🔌 Dependências definidas pelo projeto
+
+</td>
+<td width="50%" valign="top">◉ EXPERIÊNCIA
+
+- 🚀 Instalação simplificada
+- 🧭 Instruções organizadas
+- ♻️ Inicialização pelo terminal
+- 🛠️ Orientações para erros comuns
+- 🔐 Recomendações de segurança
+
+</td>
+</tr>
+</table><div align="center">⚡ TECHNOLOGY STACK
+
+<img src="https://skillicons.dev/icons?i=android,nodejs,npm,js,git,github,bash&theme=dark" alt="Tecnologias do ambiente"/></div>---
+
+◈ 02 — NAVEGAÇÃO DO SISTEMA
+
+<div align="center">MÓDULO| DESCRIÇÃO
+"01"| "Visão geral" (#-01--visão-geral)
+"02"| "Navegação" (#-02--navegação-do-sistema)
+"03"| "Instalação inteligente" (#-03--instalação-inteligente)
+"04"| "Conexão WhatsApp" (#-04--conexão-com-o-whatsapp)
+"05"| "Inicialização" (#-05--inicialização-do-sistema)
+"06"| "Diagnóstico" (#-06--central-de-diagnóstico)
+"07"| "Segurança" (#-07--segurança-e-boas-práticas)
+"08"| "Créditos" (#-08--identidade-e-créditos)
+
+</div>---
+
+◈ 03 — INSTALAÇÃO INTELIGENTE
+
+<div align="center"><img src="https://img.shields.io/badge/STEP_01-ENVIRONMENT-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STEP_02-DOWNLOAD-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STEP_03-EXECUTION-0891B2?style=for-the-badge"/></div>">_ Instalação automática pelo Termux"
+
+O procedimento abaixo prepara o ambiente, baixa o arquivo ZIP, extrai o projeto, instala as dependências e tenta iniciar o bot.
+
+Execute o comando completo no Termux:
+
+pkg update -y && pkg upgrade -y && pkg install -y nodejs-lts wget unzip ffmpeg python make clang && mkdir -p "$HOME/DOCTOR VALEYARD C'rizz Lunático" && cd "$HOME/DOCTOR VALEYARD C'rizz Lunático" && wget -O ZaraBot-V4.zip "https://github.com/DOCTOR-VALEYARD/Zara-sharman.js/raw/refs/heads/main/ZaraBot-V4.zip" && unzip -o ZaraBot-V4.zip && cd ZaraBot && npm install && node zarabot.js
+
+◉ O QUE ACONTECE DURANTE A INSTALAÇÃO?
+
+<table>
+<tr><td align="center" width="65"><b>01</b></td><td><b>Preparação</b><br>Atualiza os pacotes e instala as ferramentas do ambiente.</td></tr>
+<tr><td align="center"><b>02</b></td><td><b>Estrutura</b><br>Cria uma pasta exclusiva dentro do diretório pessoal do Termux.</td></tr>
+<tr><td align="center"><b>03</b></td><td><b>Download</b><br>Baixa o arquivo ZIP disponibilizado pelo repositório.</td></tr>
+<tr><td align="center"><b>04</b></td><td><b>Extração</b><br>Descompacta os arquivos do projeto.</td></tr>
+<tr><td align="center"><b>05</b></td><td><b>Dependências</b><br>Executa o npm para instalar os pacotes declarados pelo projeto.</td></tr>
+<tr><td align="center"><b>06</b></td><td><b>Inicialização</b><br>Tenta executar o arquivo principal do bot.</td></tr>
+</table><details>
+<summary><b>⚙️ Requisitos e compatibilidade</b></summary><br>- Android com Termux instalado.
+- Conexão com a internet.
+- Espaço livre suficiente para o projeto e suas dependências.
+- Repositório e arquivo ZIP disponíveis.
+- Pasta extraída com o nome esperado.
+- Arquivo principal existente com o nome "zarabot.js".
+
+Importante: o comando pressupõe que o ZIP contenha a pasta "ZaraBot" na raiz e que o arquivo de entrada seja "zarabot.js". Se a estrutura for diferente, será necessário ajustar o caminho.
+
+Os pacotes adicionais "python", "make" e "clang" podem ser úteis para dependências nativas, mas não são necessários em todas as instalações.
+
+</details>---
+
+◈ 04 — CONEXÃO COM O WHATSAPP
+
+<div align="center"><img src="https://img.shields.io/badge/CONNECTION-MULTI--DEVICE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></div>Depois que o bot iniciar, observe as instruções apresentadas no terminal.
+
+📲 PROCEDIMENTO DE CONEXÃO
+
+01 — Abra o WhatsApp no celular que utilizará a conta do bot.
+
+02 — Entre em Configurações → Aparelhos conectados.
+
+03 — Toque em Conectar um aparelho.
+
+04 — Caso o terminal apresente um QR Code, leia-o com o WhatsApp.
+
+05 — Aguarde o resultado da autenticação.
+
+«Nota: a conexão pode variar conforme a biblioteca e o método de autenticação utilizados pelo projeto. Siga o procedimento indicado pelo próprio bot.»
 
 ---
 
-## 💜 Sobre o ZARA BOT V4
+◈ 05 — INICIALIZAÇÃO DO SISTEMA
 
-O **ZARA BOT V4** é um bot para WhatsApp executado no Termux com Node.js. Aqui você encontra o comando de instalação, as instruções de conexão e o comando para iniciar novamente depois de fechar o Termux.
+♻️ Reiniciar sem baixar novamente
 
-- 🤖 Projeto de automação para WhatsApp
-- 📱 Execução no Android com Termux
-- ⚙️ Instalação das dependências pelo npm
-- ♻️ Comando rápido para iniciar novamente
+Depois da instalação, você poderá iniciar o bot novamente pelo Termux:
 
-## 📑 Navegação
+cd "$HOME/DOCTOR VALEYARD C'rizz Lunático/ZaraBot" && node zarabot.js
 
-- [🚀 Instalação completa](#-instalação-completa)
-- [📲 Conectar ao WhatsApp](#-conectar-ao-whatsapp)
-- [♻️ Iniciar novamente](#-iniciar-o-bot-novamente)
-- [🧰 Solução de problemas](#-solução-de-problemas)
-- [🔐 Segurança](#-segurança)
-- [👑 Créditos](#-créditos)
+🧩 Reinstalar as dependências
 
----
+Se ocorrer um erro relacionado a módulos ausentes, tente:
 
-## 🚀 Instalação completa
+cd "$HOME/DOCTOR VALEYARD C'rizz Lunático/ZaraBot" && npm install
 
-**💜 Comando único: baixar, extrair, instalar e iniciar**
+Em seguida:
 
-Copie o comando inteiro abaixo e cole no Termux:
+cd "$HOME/DOCTOR VALEYARD C'rizz Lunático/ZaraBot" && node zarabot.js
 
-```bash
-pkg update -y && pkg install -y nodejs-lts wget unzip ffmpeg && mkdir -p "$HOME/DOCTOR VALEYARD C'rizz Lunático" && cd "$HOME/DOCTOR VALEYARD C'rizz Lunático" && wget -O ZaraBot-V4.zip "https://github.com/DOCTOR-VALEYARD/Zara-sharman.js/raw/refs/heads/main/ZaraBot-V4.zip" && unzip -o ZaraBot-V4.zip && cd ZaraBot && npm install && node zarabot.js
-```
+🖥️ Conferir as versões instaladas
+
+node --version && npm --version && ffmpeg -version
+
+◉ FLUXO DE EXECUÇÃO
+
+<div align="center">"TERMUX" → "NODE.JS" → "DEPENDÊNCIAS" → "ZARA BOT V4" → "WHATSAPP"
+
+<br><img src="https://img.shields.io/badge/ENVIRONMENT-READY-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXECUTION-NODE.JS-43853D?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROJECT-ZARA%20V4-9333EA?style=flat-square"/></div>---
+
+◈ 06 — CENTRAL DE DIAGNÓSTICO
 
 <details>
-  <summary>✨ O que o comando faz?</summary>
+<summary><b>🔴 Erro: node: command not found</b></summary>Instale o Node.js LTS:
 
-  1. 🔄 Atualiza os pacotes do Termux.
-  2. 📦 Instala Node.js LTS, wget, unzip e FFmpeg.
-  3. 📁 Cria a pasta do projeto.
-  4. 🌐 Baixa o ZIP do GitHub.
-  5. 🗜️ Extrai os arquivos.
-  6. 🧩 Instala as dependências com `npm install`.
-  7. 🤖 Inicia o bot com `node zarabot.js`.
-</details>
+pkg install -y nodejs-lts
 
-> **Atenção:** o comando pressupõe que o ZIP contenha a pasta `ZaraBot` e que o arquivo principal se chame `zarabot.js`.
+Confira:
 
----
+node --version
 
-## 📲 Conectar ao WhatsApp
+</details><details>
+<summary><b>🟠 Erro: Cannot find module</b></summary>Entre na pasta correta e instale as dependências:
 
-1. ⏳ Aguarde as instruções do bot no Termux.
-2. 📷 Se aparecer um QR Code, abra o WhatsApp.
-3. Entre em **Configurações → Aparelhos conectados → Conectar um aparelho**.
-4. Leia o QR Code e aguarde a confirmação.
-
-Se o bot mostrar outro método de conexão, siga as instruções que aparecerem no terminal.
-
-## ♻️ Iniciar o bot novamente
-
-Fechou o Termux? Se os arquivos já estão instalados, você não precisa baixar o ZIP outra vez.
-
-Abra o Termux e execute:
-
-```bash
-cd "$HOME/DOCTOR VALEYARD C'rizz Lunático/ZaraBot" && node zarabot.js
-```
-
-### 🧩 Se aparecer erro de dependências
-
-Execute:
-
-```bash
 cd "$HOME/DOCTOR VALEYARD C'rizz Lunático/ZaraBot" && npm install
-```
 
-Depois, inicie novamente:
+Se o erro persistir, confira o nome do módulo e a mensagem completa apresentada pelo terminal.
 
-```bash
-cd "$HOME/DOCTOR VALEYARD C'rizz Lunático/ZaraBot" && node zarabot.js
-```
+</details><details>
+<summary><b>🟡 Erro: No such file or directory</b></summary>Confira o conteúdo da pasta:
 
-## 🧰 Solução de problemas
+ls -la "$HOME/DOCTOR VALEYARD C'rizz Lunático"
 
-| ❌ Problema | 🔧 O que fazer |
-|---|---|
-| `node: command not found` | Execute `pkg install -y nodejs-lts`. |
-| `Cannot find module` | Entre na pasta `ZaraBot` e execute `npm install`. |
-| `No such file or directory` | Confira o nome da pasta e do arquivo `zarabot.js`. |
-| Falha no download | Verifique a internet e se o ZIP continua disponível no GitHub. |
-| O bot fecha sozinho | Copie a mensagem completa do erro antes de reinstalar. |
+Confira a pasta extraída:
 
-## 🔐 Segurança
+find "$HOME/DOCTOR VALEYARD C'rizz Lunático" -maxdepth 3 -type f -name 'zarabot.js'
 
-- 🔒 Não compartilhe QR Codes, credenciais ou arquivos de sessão.
-- 🛡️ Mantenha informações privadas fora de repositórios públicos.
-- 🤝 Respeite a privacidade dos usuários e os termos dos serviços utilizados.
-- 📜 Confira a licença do projeto antes de redistribuir ou comercializar o código.
+Se o arquivo estiver em outro local, ajuste o caminho de inicialização.
+
+</details><details>
+<summary><b>🔵 Erro durante o download ou extração</b></summary>Confira se o arquivo ZIP existe:
+
+ls -lh "$HOME/DOCTOR VALEYARD C'rizz Lunático/ZaraBot-V4.zip"
+
+Se o download estiver incompleto, verifique sua conexão e a disponibilidade do arquivo no GitHub antes de tentar novamente.
+
+</details><details>
+<summary><b>🟣 O bot fecha inesperadamente</b></summary>Não apague os arquivos imediatamente.
+
+1. Copie a mensagem completa do erro.
+2. Confira se o Node.js está instalado corretamente.
+3. Verifique se todas as dependências foram instaladas.
+4. Confirme se o arquivo de configuração necessário existe.
+5. Consulte a documentação da biblioteca de conexão utilizada pelo projeto.
+
+</details>---
+
+◈ 07 — SEGURANÇA E BOAS PRÁTICAS
+
+<div align="center"><img src="https://img.shields.io/badge/SECURITY-IS_A_PRIORITY-DC2626?style=for-the-badge&logo=shield&logoColor=white"/></div>- 🔐 Sessões privadas: nunca publique arquivos de autenticação ou credenciais.
+- 📱 QR Code: não compartilhe códigos de vinculação com desconhecidos.
+- 🛡️ Privacidade: respeite os dados e as mensagens dos usuários.
+- 📦 Dependências: instale pacotes de fontes confiáveis.
+- 🔄 Manutenção: mantenha cópias de segurança dos arquivos importantes.
+- 📜 Licença: verifique as condições de uso antes de redistribuir ou comercializar o projeto.
+- ⚖️ Conformidade: respeite os termos dos serviços e as regras aplicáveis ao uso da automação.
 
 ---
 
-<div align="center">
+◈ 08 — IDENTIDADE E CRÉDITOS
 
-## 👑 Créditos
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:090018,30:3B0764,65:7E22CE,100:0891B2&height=100&section=header&text=THE%20MIND%20BEHIND%20THE%20CODE&fontSize=22&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Identidade do desenvolvedor"/><br><br>
 
-### DOCTOR VALEYARD C'RIZZ LUNÁTICO
+👑 DOCTOR VALEYARD C'RIZZ LUNÁTICO
 
-**ZARA BOT V4 · WHATSAPP AUTOMATION**
+"DEVELOPER"   ◆   "CREATOR"   ◆   "TECH ENTHUSIAST"
 
-<a href="https://github.com/DOCTOR-VALEYARD/Zara-sharman.js">🌐 ACESSAR O REPOSITÓRIO OFICIAL</a>
+<br><a href="https://github.com/DOCTOR-VALEYARD/Zara-sharman.js">
+<img src="https://img.shields.io/badge/GITHUB-REPOSITÓRIO-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositório no GitHub"/>
+</a><a href="https://github.com/DOCTOR-VALEYARD">
+<img src="https://img.shields.io/badge/DEVELOPER-PERFIL%20GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Perfil do desenvolvedor"/>
+</a><br><br>
 
-<br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,30:FF36B8,65:6A00F4,100:090018&height=160&section=footer" width="100%" alt="Rodapé ondulado ZARA BOT V4" />
+ZARA BOT V4
 
-**💜 Tecnologia, automação e estilo. 💜**
+Technology with identity. Automation with purpose.
+
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,25:7C3AED,65:6D28D9,100:090018&height=180&section=footer&animation=fadeIn" width="100%" alt="Encerramento neon ZARA BOT V4"/>© DOCTOR VALEYARD C'RIZZ LUNÁTICO
+
+"ZARA BOT V4" · "WHATSAPP AUTOMATION" · "NEON EDITION"
 
 </div>
